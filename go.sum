@@ -4,3 +4,5 @@ github.com/go-ruby-net-http/net-http v0.0.0-20260717070838-ce4150523d5d h1:eI4Ca
 github.com/go-ruby-net-http/net-http v0.0.0-20260717070838-ce4150523d5d/go.mod h1:PiNQDuyrSPZX8OzApvgyn1fTjRNwx0KNO1vrzdAguEc=
 github.com/go-ruby-rexml/rexml v0.0.0-20260629154021-5fb0f287ee8b h1:hWNW3Z8g7Hwi17NJT912J0udGhK5dzxub8u7T07Oyv8=
 github.com/go-ruby-rexml/rexml v0.0.0-20260629154021-5fb0f287ee8b/go.mod h1:UQGki9qXLiqaEOm4ih1CGznGNPUDcNGCsLVJ/y6G1G8=
+github.com/go-ruby-rexml/rexml v0.0.0-20260717073406-283af9b32a91 h1:lurxMrhKKN+lySo5yiFCbXzyKoJNF5Uo/4GZCbAJY14=
+github.com/go-ruby-rexml/rexml v0.0.0-20260717073406-283af9b32a91/go.mod h1:UQGki9qXLiqaEOm4ih1CGznGNPUDcNGCsLVJ/y6G1G8=
