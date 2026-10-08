@@ -10,3 +10,5 @@ github.com/go-ruby-rexml/rexml v0.0.0-20260717073406-283af9b32a91 h1:lurxMrhKKN+
 github.com/go-ruby-rexml/rexml v0.0.0-20260717073406-283af9b32a91/go.mod h1:UQGki9qXLiqaEOm4ih1CGznGNPUDcNGCsLVJ/y6G1G8=
 github.com/go-ruby-rexml/rexml v0.0.0-20260916101905-c8e846bf8b6e h1:PwZ1F6Ia1XUXgwCjh7R+qsQVIU4pZmH7VmqLHkK/auQ=
 github.com/go-ruby-rexml/rexml v0.0.0-20260916101905-c8e846bf8b6e/go.mod h1:UQGki9qXLiqaEOm4ih1CGznGNPUDcNGCsLVJ/y6G1G8=
+github.com/go-ruby-rexml/rexml v0.0.0-20261007113136-1a5427b1196f h1:u8PSojPguenjLG2uli4xED8zaLwS8hccxF/SS0U8dhw=
+github.com/go-ruby-rexml/rexml v0.0.0-20261007113136-1a5427b1196f/go.mod h1:1RGz9Kt/D5SCPBRJuqVysjb9klSAAcqQCD0sG4xfWSU=
